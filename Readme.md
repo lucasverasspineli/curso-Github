@@ -1,10 +1,3 @@
-# Github
-Qualquer coisaaaaaaaa
-laskcmzoxicqokcaisnc
-Arquivo da aula de Git e Github para iniciantes.
-Este é um repositório teste
-Fazendo um commit para deixar o arquivo em Staged
-Eu quero um Café, pois eu gosto muito!
-Mais uma alteração básica.
-Mudei aqui.
-usando comando git pull
+# Curso para aprender os conceitos do Git
+Este é um repositório de estudo que visa entender e colocar em prática os conceitos fundamentais do Git, entendendo o funcionamento desse sistema de versionamento de código, como funciona o ciclo de vida das filas de status, compreendendo seus principais comandos e conceitos sobre Branch.
+
